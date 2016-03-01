@@ -1,0 +1,24 @@
+ngom:
+  locations: 
+    - 
+      name: "Walldorf"
+      pos: "8.641676;49.294290;0"
+      employees: 
+        - "Bernd"
+        - "Jörn"
+        - "Elodie"
+    - 
+      name: "Chengdu"
+      pos: "104.059062;30.601142;0"
+      employees: []
+    - 
+      name: "Montreal"
+      pos: "-73.566398;45.504330;0"
+      employees: []
+    - 
+      name: "Freiberg am Neckar"
+      pos: "9.179309;48.932950;0"
+      employees: 
+        - "Frank"
+        - "Vahed"
+        - "Annette"
