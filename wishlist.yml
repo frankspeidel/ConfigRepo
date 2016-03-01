@@ -1,0 +1,15 @@
+response:
+  times: 
+    - 
+      name: "Frank"
+      pause: "5000"
+    - 
+      name: "Annette"
+      pause: "3000"
+    - 
+      name: "Vahed"
+      pause: "1000"
+  returnCodes: 
+    - 
+      code: "503"
+      each: "3"
