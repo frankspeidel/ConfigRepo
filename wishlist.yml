@@ -12,4 +12,4 @@ response:
   returnCodes: 
     - 
       code: "503"
-      each: "3"
+      each: "6"
