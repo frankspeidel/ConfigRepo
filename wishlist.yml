@@ -2,7 +2,7 @@ response:
   times: 
     - 
       name: "Frank"
-      pause: "500"
+      pause: "5000"
     - 
       name: "Annette"
       pause: "300"
