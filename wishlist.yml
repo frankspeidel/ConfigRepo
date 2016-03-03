@@ -2,7 +2,7 @@ response:
   times: 
     - 
       name: "Frank"
-      pause: "5000"
+      pause: "500"
     - 
       name: "Annette"
       pause: "300"
@@ -12,4 +12,4 @@ response:
   returnCodes: 
     - 
       code: "503"
-      each: "2"
+      each: "99"
